@@ -1,6 +1,8 @@
 # devops-netology
 first line
 second line
+add line from pycharm
+add second line from pycharm
 
 Толкование правил терраформовского гитигнора.
 Будут исключены следующие файлы и директории:
@@ -13,8 +15,3 @@ second line
 - файлы с именем override.tf override.tf.json и с любым набором сисмволов и
   знаком подчеркивания перед указанными именовами
 - файлы с именем terraform.rc и скрытые файлы с именем terraform
-
-
-
- 
- 
